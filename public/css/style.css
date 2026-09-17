@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header{
+    background-color: rgb(82, 82, 82);
+    height: 80px;
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+
+}
+
+.header nav{
+    display: flex;
+    gap: 30px;
+}
